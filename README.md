@@ -1,6 +1,6 @@
 # EDGE-DETECTION
-### Name - Abishai K C  
-### Register Number - 212223240002
+### Name - Ashwina K N 
+### Register Number - 212223230025
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
